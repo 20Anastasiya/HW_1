@@ -4,6 +4,7 @@ while '' in spis1:
     spis1.remove('')
 print(spis1)
 
+
 # spis2 = [4, 12, 6, 8, 3, 7, 5, 9, 2]
 # print(spis2)
 # spis2 = [i ** 2 for i in spis2]
