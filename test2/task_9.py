@@ -8,7 +8,7 @@ while True:
         break
 for item in _list:
     try:
-        a = num/item
+        a = num / item
     except TypeError:
         print('Возникла ошибка типа')
     except ZeroDivisionError:
@@ -16,4 +16,3 @@ for item in _list:
         break
     except Exception as exc:
         print(exc)
-
