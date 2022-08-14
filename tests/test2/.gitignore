@@ -8,7 +8,11 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+<<<<<<< HEAD
 venv/Lib/site-packages/pip/_internal/operations/build/
+=======
+build/
+>>>>>>> test_2
 develop-eggs/
 dist/
 downloads/
